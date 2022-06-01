@@ -1,0 +1,1 @@
+pyinstaller -i ICON.ico --disable-windowed-traceback -w -p . -f
